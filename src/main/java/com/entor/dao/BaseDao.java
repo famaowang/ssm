@@ -8,7 +8,7 @@ import java.util.Map;
  * 泛型父接口，最基本的数据库持久层对象
  * @author Administrator
  *
- * @param <T>
+ * @param <T>  
  */
 public interface BaseDao<T> {
 
